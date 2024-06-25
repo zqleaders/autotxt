@@ -5,6 +5,7 @@
 49.165.150.206:18916#KR-Singbox-Nods
 211.72.156.10:23555#TW-Singbox-Nods
 193.123.233.169:39803#HK-Singbox-Nods
+43.154.96.33:443#HK-Singbox-Nods
 45.80.111.38:8443#US-Singbox-Nods
 69.84.182.247:8443#US-Singbox-Nods
 217.163.76.36:8443#US-Singbox-Nods
