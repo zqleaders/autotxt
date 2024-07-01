@@ -7,6 +7,12 @@
 60.249.89.74:23555#TW-Singbox-Nods
 193.123.233.169:39803#HK-Singbox-Nods
 43.154.96.33:443#HK-Singbox-Nods
+168.100.6.1:8443#US-Singbox-Nods
+205.233.181.244:8443#US-Singbox-Nods
+45.135.235.111:8443#US-Singbox-Nods
+27.50.48.222:8443#US-Singbox-Nods
+216.205.52.109:8443#US-Singbox-Nods
+147.78.140.81:8443#US-Singbox-Nods
 45.80.111.38:8443#US-Singbox-Nods
 159.112.235.14:8443#US-Singbox-Nods
 156.225.72.152:8443#US-Singbox-Nods
