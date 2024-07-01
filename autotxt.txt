@@ -13,6 +13,7 @@
 27.50.48.222:8443#US-Singbox-Nods
 216.205.52.109:8443#US-Singbox-Nods
 147.78.140.81:8443#US-Singbox-Nods
+154.92.9.15:8443#US-Singbox-Nods
 45.80.111.38:8443#US-Singbox-Nods
 159.112.235.14:8443#US-Singbox-Nods
 156.225.72.152:8443#US-Singbox-Nods
